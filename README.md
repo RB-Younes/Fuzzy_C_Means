@@ -2,9 +2,9 @@
 
 This repository contains an implementation of the Fuzzy C-means (FCM) algorithm for image segmentation. The FCM algorithm is a clustering technique that allows for "soft" clustering, meaning each pixel in an image can belong to multiple clusters with varying degrees of membership. This makes it useful for images with soft boundaries, where distinguishing between objects and background is challenging.
 
-Milkway visualisation (5 clusters)
-![Clustering Result](exp.png)
-
+Milkway heatmap visualisation (5 clusters):
+![Clustering Result](res.png)
+Milkway segmentation visualisation  (2 clusters):
 ![Segmentation Result](exp.png)
 
 ## Features
